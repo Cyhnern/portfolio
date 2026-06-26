@@ -363,15 +363,15 @@ export default function Home() {
       <section className={`py-12 border-y ${darkMode ? 'bg-slate-800/20 border-slate-800' : 'bg-slate-50 border-slate-100'}`}>
         <div className="max-w-5xl mx-auto px-6 grid grid-cols-2 md:grid-cols-4 gap-8 text-center font-bold">
           <div>
-            <div className="text-4xl font-black text-[#FED141]">0+</div>
+            <div className="text-4xl font-black text-[#FED141]">6+</div>
             <div className="text-xs uppercase tracking-wider opacity-60 mt-1">Tamamlanan Proje</div>
           </div>
           <div>
-            <div className="text-4xl font-black text-[#FED141]">0+</div>
+            <div className="text-4xl font-black text-[#FED141]">45+</div>
             <div className="text-xs uppercase tracking-wider opacity-60 mt-1">GitHub Commit</div>
           </div>
           <div>
-            <div className="text-4xl font-black text-[#FED141]">0+</div>
+            <div className="text-4xl font-black text-[#FED141]">10+</div>
             <div className="text-xs uppercase tracking-wider opacity-60 mt-1">Blog Yazısı</div>
           </div>
           <div>
